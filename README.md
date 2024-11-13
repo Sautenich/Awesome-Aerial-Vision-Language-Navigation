@@ -29,8 +29,4 @@ Preprint, 2024 [paper](https://arxiv.org/pdf/2406.14240)
 - [OpenUAV]: Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology
 Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087)
 
-- [OpenUAV]: Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology
-Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087)
-
-
 

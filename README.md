@@ -48,12 +48,12 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 
 ## Simulators
 
-- [AVDN][code] (https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation)
+- [AVDN] [code](https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation)
 
-- [AerialVLN][code](https://github.com/AirVLN/AirVLN)
+- [AerialVLN] [code](https://github.com/AirVLN/AirVLN)
 
-- [CityNAV][code](https://github.com/water-cookie/citynav)
+- [CityNAV] [code](https://github.com/water-cookie/citynav)
 
-- [OpenUAV][page](https://prince687028.github.io/OpenUAV/)
+- [OpenUAV] [page](https://prince687028.github.io/OpenUAV/)
 
   

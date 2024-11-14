@@ -56,6 +56,8 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 
 - [OpenUAV] [page](https://prince687028.github.io/OpenUAV/)
 
+- [EmbodiedCity] [code](https://github.com/tsinghua-fib-lab/EmbodiedCity)
+
 ## Links
 - [Awesome VLN by Eric Lab] [link](https://github.com/eric-ai-lab/awesome-vision-language-navigation)
 

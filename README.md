@@ -47,7 +47,7 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
   Preprint, 2024 [paper](https://arxiv.org/pdf/2410.08500) [video](https://www.youtube.com/watch?v=QCurAuA0NXg&ab_channel=IPEC)
 
 - [OpenFLY]: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation
-  Preprint, 2024 [paper](https://arxiv.org/abs/2502.18041)[code](https://github.com/SHAILAB-IPEC/OpenFly-Platform)
+  Preprint, 2025 [paper](https://arxiv.org/abs/2502.18041)[code](https://github.com/SHAILAB-IPEC/OpenFly-Platform)
 
   
 

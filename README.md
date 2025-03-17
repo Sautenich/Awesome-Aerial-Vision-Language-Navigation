@@ -46,6 +46,11 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 - [STMR]: Aerial Vision-and-Language Navigation via Semantic-Topo-Metric Representation Guided LLM Reasoning  
   Preprint, 2024 [paper](https://arxiv.org/pdf/2410.08500) [video](https://www.youtube.com/watch?v=QCurAuA0NXg&ab_channel=IPEC)
 
+- [OpenFLY]: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation
+  Preprint, 2024 [paper](https://arxiv.org/abs/2502.18041)[code](https://github.com/SHAILAB-IPEC/OpenFly-Platform)
+
+  
+
 ## Simulators
 
 - [AVDN] [code](https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation)

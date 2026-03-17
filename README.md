@@ -54,10 +54,15 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 - [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models
   Journal Preprint, 2025 [paper](https://arxiv.org/pdf/2408.15511)
 
-- [OnFly]: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency, 2026, [paper](https://arxiv.org/pdf/2603.10682)
+- [OnFly]: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency, 2026, [paper](https://arxiv.org/pdf/2603.10682) - SOTA? No code yet
   
+- [See, Point, Fly(SPF)]: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation [paper](https://arxiv.org/abs/2509.22653)
 
-  
+- [PIVOT]: AIterative Visual Prompting Elicits Actionable Knowledge for VLMs [paper](https://arxiv.org/pdf/2402.07872)
+
+- [TypeFly]: Flying Drones with Large Language Model [paper](https://typefly.github.io/)
+
+
 
 ## Simulators
 

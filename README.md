@@ -51,8 +51,11 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 - [OpenFLY]: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation
   Preprint, 2025 [paper](https://arxiv.org/abs/2502.18041)[code](https://github.com/SHAILAB-IPEC/OpenFly-Platform)
 
-- [AeroVerse]: : UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models
+- [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models
   Journal Preprint, 2025 [paper](https://arxiv.org/pdf/2408.15511)
+
+- [OnFly]: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency, 2026, [paper]([https://arxiv.org/pdf/2408.15511](https://arxiv.org/pdf/2603.10682))
+  
 
   
 

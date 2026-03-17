@@ -54,7 +54,7 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 - [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models
   Journal Preprint, 2025 [paper](https://arxiv.org/pdf/2408.15511)
 
-- [OnFly]: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency, 2026, [paper]([https://arxiv.org/pdf/2408.15511](https://arxiv.org/pdf/2603.10682))
+- [OnFly]: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency, 2026, [paper](https://arxiv.org/pdf/2603.10682)
   
 
   

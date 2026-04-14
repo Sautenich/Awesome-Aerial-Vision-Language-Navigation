@@ -58,13 +58,13 @@ ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 
 - [AutoFly]: AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild, 2026  [page](https://arxiv.org/abs/2602.09657)  [paper](https://arxiv.org/pdf/2602.09657)
 
-- [NavDreamer]: Video Models as Zero-Shot 3D Navigators  [page](https://xinjiu612.github.io/NavDreamer/)  [paper](https://arxiv.org/pdf/2602.09765)
+- [NavDreamer]: Video Models as Zero-Shot 3D Navigators, 2026  [page](https://xinjiu612.github.io/NavDreamer/)  [paper](https://arxiv.org/pdf/2602.09765)
 
-- [See, Point, Fly(SPF)]: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation [paper](https://arxiv.org/abs/2509.22653)
+- [See, Point, Fly(SPF)]: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation, 2025 [paper](https://arxiv.org/abs/2509.22653)
 
-- [PIVOT]: AIterative Visual Prompting Elicits Actionable Knowledge for VLMs [paper](https://arxiv.org/pdf/2402.07872)
+- [PIVOT]: AIterative Visual Prompting Elicits Actionable Knowledge for VLMs, 2024 [paper](https://arxiv.org/pdf/2402.07872)
 
-- [TypeFly]: Flying Drones with Large Language Model [paper](https://typefly.github.io/)
+- [TypeFly]: Flying Drones with Large Language Model, 2023 [paper](https://typefly.github.io/)
 
 
 

@@ -18,7 +18,7 @@ Your suggestions to the list are highly encouraged (use the issues).
 ## Datasets and Benchmarks
 
 - [AirCopBench]: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning  
-  AAAI 2026 [paper](https://arxiv.org/abs/2511.11025)
+  AAAI 2026 [paper](https://arxiv.org/abs/2511.11025) [page](https://embodiedcity.github.io/AirCopBench/)
 
 - [EmbodiedCity]: A Benchmark Platform for Embodied Agent in Real-world City Environment  
   Preprint, 2024 [paper](https://arxiv.org/abs/2410.09604) [page](https://embodied-city.fiblab.net) [code](https://github.com/tsinghua-fib-lab/EmbodiedCity)

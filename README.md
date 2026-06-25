@@ -20,11 +20,14 @@ Your suggestions to the list are highly encouraged (use the issues).
 - [AirCopBench]: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning  
   AAAI 2026 [paper](https://arxiv.org/abs/2511.11025)
 
-- [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models  
-  Preprint, 2024 [paper](https://arxiv.org/pdf/2408.15511) [code](https://github.com/06f081zyd/AeroVerse)
+- [EmbodiedCity]: A Benchmark Platform for Embodied Agent in Real-world City Environment  
+  Preprint, 2024 [paper](https://arxiv.org/abs/2410.09604) [page](https://embodied-city.fiblab.net) [code](https://github.com/tsinghua-fib-lab/EmbodiedCity)
 
 - [OpenUAV]: Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology  
-  Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087) [code](https://github.com/prince687028/TravelUAV)
+  Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087) [page](https://prince687028.github.io/OpenUAV/) [code](https://github.com/prince687028/TravelUAV)
+
+- [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models  
+  Preprint, 2024 [paper](https://arxiv.org/pdf/2408.15511) [code](https://github.com/06f081zyd/AeroVerse)
 
 - [CityNAV]: Language-Goal Aerial Navigation Dataset with Geographic Information  
   Preprint, 2024 [paper](https://arxiv.org/pdf/2406.14240) [code](https://github.com/water-cookie/citynav)
@@ -90,7 +93,7 @@ Your suggestions to the list are highly encouraged (use the issues).
 
 - [OpenUAV] [page](https://prince687028.github.io/OpenUAV/)
 
-- [EmbodiedCity] [code](https://github.com/tsinghua-fib-lab/EmbodiedCity)
+- [EmbodiedCity] [page](https://embodied-city.fiblab.net) [code](https://github.com/tsinghua-fib-lab/EmbodiedCity)
 
 ---
 

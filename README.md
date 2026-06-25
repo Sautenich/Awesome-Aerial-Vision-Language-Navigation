@@ -8,10 +8,32 @@ Your suggestions to the list are highly encouraged (use the issues).
 ---
 
 ## Table of Contents
+- [Core Labs](#core-labs)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Aerial VLN](#aerial-vln)
 - [Simulators](#simulators)
 - [Links](#links)
+
+---
+
+## Core Labs
+
+Research groups with multiple or foundational contributions to Aerial VLN.
+
+| Lab / PI | Institution | Country | Papers |
+|---|---|---|---|
+| Bin Zhao, Dong Wang, Xuelong Li | Shanghai AI Laboratory | China | STMR, OpenFLY |
+| Boyu Zhou | Southern University of Science and Technology (SUSTech) + Sun Yat-Sen University | China | OnFly |
+| Fei Gao (FAST Lab) | Zhejiang University | China | NavDreamer |
+| Chen Gao, Yong Li (FIBLab) | Tsinghua University | China | EmbodiedCity, AirCopBench |
+| Si Liu | Beihang University | China | OpenUAV |
+| Xian Sun, Kun Fu | Aerospace Information Research Institute, Chinese Academy of Sciences | China | AeroVerse |
+| Yutao Yue, Hui Xiong | HKUST (Guangzhou) | China | AutoFly, AirCopBench |
+| Yongming Huang | Southeast University + Purple Mountain Labs | China | AutoFly |
+| Xin Eric Wang | University of California, Santa Cruz | USA | AVDN |
+| Lin Zhong | Yale University | USA | TypeFly |
+| Shubo Liu et al. | Northwestern Polytechnical University (NWPU) + Macquarie University | China / Australia | AerialVLN |
+| Yutaka Matsuo, Nakamasa Inoue | University of Tokyo + Institute of Science Tokyo | Japan | CityNAV |
 
 ---
 

@@ -21,19 +21,19 @@ Your suggestions to the list are highly encouraged (use the issues).
   AAAI 2026 [paper](https://arxiv.org/abs/2511.11025)
 
 - [AeroVerse]: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models  
-  Preprint, 2024 [paper](https://arxiv.org/pdf/2408.15511)
+  Preprint, 2024 [paper](https://arxiv.org/pdf/2408.15511) [code](https://github.com/06f081zyd/AeroVerse)
 
 - [OpenUAV]: Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology  
-  Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087)
+  Preprint, 2024 [paper](https://arxiv.org/abs/2410.07087) [code](https://github.com/prince687028/TravelUAV)
 
 - [CityNAV]: Language-Goal Aerial Navigation Dataset with Geographic Information  
-  Preprint, 2024 [paper](https://arxiv.org/pdf/2406.14240)
+  Preprint, 2024 [paper](https://arxiv.org/pdf/2406.14240) [code](https://github.com/water-cookie/citynav)
 
 - [AerialVLN]: Vision-and-Language Navigation for UAVs  
-  ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf)
+  ICCV 2023 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf) [code](https://github.com/AirVLN/AirVLN)
 
 - [AVDN]: Aerial Vision-and-Dialog Navigation  
-  ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
+  ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home) [code](https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation)
 
 ---
 
